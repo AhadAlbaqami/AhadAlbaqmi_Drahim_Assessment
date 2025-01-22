@@ -1,0 +1,62 @@
+/* 
+  ServicesLocalizable.strings
+  AhadAlbaqmi_Drahim_Assessment
+
+  Created by Ahad Albaqami on 1/22/25.
+  
+*/
+
+//MARK: Investment Services Section
+"lblNavigationTitle_drahimServices" = "Drahim Services";
+
+"lblSectionTitle_InvestmentServices" = "Investment Services";
+
+"lblTitle_service_investmentCalculator" = "Investment Calculator";
+"lblSubTitle_service_investmentCalculator" = "See how your investments grow over the years";
+
+"lblTitle_service_createTrackingPortfolio" = "Link External Portfolio";
+"lblSubTitle_service_createTrackingPortfolio" = "Track your external investments seamlessly";
+
+"lblTitle_service_createCustomPortfolio" = "Custom Portfolios";
+"lblSubTitle_service_createCustomPortfolio" = "Design your portfolio to match your expertise and goals";
+
+"lblTitle_service_investmentGoals" = "Investment Goals";
+"lblSubTitle_service_investmentGoals" = "Set your goals and plan step by step to achieve them";
+
+"lblTitle_service_recurringPayments" = "Monthly Investments";
+"lblSubTitle_service_recurringPayments" = "Enable monthly deductions to meet your investment goals with ease";
+
+"lblTitle_service_createPortfolio" = "Create Investment Portfolio";
+"lblSubTitle_service_createPortfolio" = "Create a portfolio tailored to your financial goals";
+
+
+
+//MARK: Expense Management Services
+"lblSectionTitle_expenseManagementServices" = "Expense Management Services";
+
+"lblTitle_service_createBudget" = "Budgets";
+"lblSubTitle_service_createBudget" = "Plan weekly, monthly, or annual budgets effortlessly";
+
+"lblTitle_service_createManualAccount" = "Create Manual Account";
+"lblSubTitle_service_createManualAccount" = "Manage all your bills and loans from one place";
+
+"lblTitle_service_linkBank" = "Link Bank Account";
+"lblSubTitle_service_linkBank" = "Track your bank transactions securely in real time";
+
+
+//MARK: General Services
+"lblSectionTitle_GeneralServices" = "General Services";
+
+"lblTitle_service_assetsManagement" = "Asset Management";
+"lblSubTitle_service_assetsManagement" = "Track your money, properties, gold, and more.";
+
+"lblTitle_service_drahimGPT" = "Drahim GPT";
+"lblSubTitle_service_drahimGPT" = "Ask Drahim anything using AI";
+
+"lblTitle_service_drahimPlus" = "Drahim Plus";
+"lblSubTitle_service_drahimPlus" = "Unlock exclusive features and extra benefits with your subscription";
+
+"lblTitle_service_zakatCalculator" = "Zakat Calculator";
+"lblSubTitle_service_zakatCalculator" = "Easily calculate and fulfil your zakat accurately";
+
+"lblTitle_service_emotyView" = "No Results Found";

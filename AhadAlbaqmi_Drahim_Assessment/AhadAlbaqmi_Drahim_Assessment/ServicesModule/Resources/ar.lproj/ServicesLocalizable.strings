@@ -1,0 +1,63 @@
+/* 
+  ServicesLocalizable.strings
+  AhadAlbaqmi_Drahim_Assessment
+
+  Created by Ahad Albaqami on 1/22/25.
+  
+*/
+
+
+//MARK: Investment Services Section
+"lblNavigationTitle_drahimServices" = "خدمات دراهم";
+
+"lblSectionTitle_InvestmentServices" = "خدمات الاستثمار";
+
+"lblTitle_service_investmentCalculator" = "حاسبة الاستثمار";
+"lblSubTitle_service_investmentCalculator" = "اكتشف كم ستنمو استثماراتك على مدى السنوات القادمة";
+
+"lblTitle_service_createTrackingPortfolio" = "ربط محفظة استثمارية خارجية";
+"lblSubTitle_service_createTrackingPortfolio" = "تابع استثماراتك الخارجية بكل سهولة";
+
+"lblTitle_service_createCustomPortfolio" = "تخصيص المحافظ";
+"lblSubTitle_service_createCustomPortfolio" = "صمم محفظتك الاستثمارية بما يناسب خبرتك وأهدافك";
+
+"lblTitle_service_investmentGoals" = "الأهداف الاستثمارية";
+"lblSubTitle_service_investmentGoals" = "حدد أهدافك وخطط لتحقيقها خطوة بخطوة";
+
+"lblTitle_service_recurringPayments" = "الاستقطاع الشهري";
+"lblSubTitle_service_recurringPayments" = "فعّل الاستقطاع الشهري لتحقيق أهدافك الاستثمارية بسهولة";
+
+"lblTitle_service_createPortfolio" = "فتح محفظة استثمارية";
+"lblSubTitle_service_createPortfolio" = "أنشئ محفظة استثمارية تناسب أهدافك المالية";
+
+
+
+//MARK: Expense Management Services
+"lblSectionTitle_expenseManagementServices" = "خدمات متابعة المصاريف";
+
+"lblTitle_service_createBudget" = "أنشئ ميزانية";
+"lblSubTitle_service_createBudget" = "خطط لميزانياتك الأسبوعية، الشهرية أو السنوية بسهولة";
+
+"lblTitle_service_createManualAccount" = "إضافة حساب يدوي";
+"lblSubTitle_service_createManualAccount" = "تابع جميع فواتيرك وقروضك من مكان واحد";
+
+"lblTitle_service_linkBank" = "ربط حساب بنكي";
+"lblSubTitle_service_linkBank" = "تتبع عملياتك البنكية الفورية بشكل آمن";
+
+
+//MARK: General Services
+"lblSectionTitle_GeneralServices" = "خدمات عامة";
+
+"lblTitle_service_assetsManagement" = "إدراة الأصول";
+"lblSubTitle_service_assetsManagement" = "تابع أموالك، عقاراتك، ذهبك، وغير ذلك.";
+
+"lblTitle_service_drahimGPT" = "دراهم GPT";
+"lblSubTitle_service_drahimGPT" = "اسأل دراهم أي سؤال باستخدام الذكاء الصناعي";
+
+"lblTitle_service_drahimPlus" = "دراهم بلس";
+"lblSubTitle_service_drahimPlus" = "استمتع بمزايا حصرية وخدمات إضافية مع اشتراكك";
+
+"lblTitle_service_zakatCalculator" = "حاسبة الزكاة";
+"lblSubTitle_service_zakatCalculator" = "احسب زكاتك بدقة وأخرجها بسهولة";
+
+"lblTitle_service_emotyView" = "لا توجد نتائج";
