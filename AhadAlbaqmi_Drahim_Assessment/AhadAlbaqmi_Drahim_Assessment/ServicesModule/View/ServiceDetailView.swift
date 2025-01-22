@@ -28,7 +28,7 @@ struct ServiceDetailView: View {
         }.padding(.horizontal, 10)
         .frame(maxWidth: .infinity, alignment: .leading)
         .frame(height: 80)
-        .background(Color.backgroundColor)
+        .background(Color.primaryColor)
         .cornerRadius(16)
         .padding(.horizontal, 10)
     }
